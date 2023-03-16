@@ -1,6 +1,7 @@
 h1{
     color: red;
-    margin: 0;
+    margin: 0 auto;
+    text-align: center;
 }
 p{
     color: blue;
@@ -16,6 +17,9 @@ form{
     padding: 20px;
     margin: 200px auto;
     display: block;
+    border-radius: 10px;
+    border: 2px solid yellow;
+    box-shadow: 1px 2px 3px 4px white;
 }
 body{
     background-color: black;
@@ -28,5 +32,14 @@ label{
 }
 button{
     display: block;
-    margin: auto;
+    margin: 0 auto;
+    border-radius: 7px;
+    width: 40%;
+    cursor: pointer;
+    font-size: 13px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border: none;
+
 }
