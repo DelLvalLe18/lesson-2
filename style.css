@@ -1,0 +1,32 @@
+h1{
+    color: red;
+    margin: 0;
+}
+p{
+    color: blue;
+}
+input{
+    display: block;
+    text-align: center;
+    width: 100%;
+}
+form{
+    width: 300px;
+    background-color: red;
+    padding: 20px;
+    margin: 200px auto;
+    display: block;
+}
+body{
+    background-color: black;
+}
+head{
+    background-color: white;
+}
+label{
+    color: white;
+}
+button{
+    display: block;
+    margin: auto;
+}
